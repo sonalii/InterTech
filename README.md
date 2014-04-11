@@ -1,12 +1,12 @@
 InterTech
 =========
 
-puzzel 1
+puzzle 1
 --------
 
 ```
 $ cd p1
-$ php puzzel.php input.in
+$ php puzzle.php input.in
 
 solve: 5;0,1,2,3,0
 mine : 0
@@ -17,11 +17,11 @@ mine : 4
 bonus: 4
 ```
 
-puzzel 2
+puzzle 2
 --------
 ```
 $ cd p2
-$ php puzzel.php input.in
+$ php puzzle.php input.in
 
 Hello World,World		1
 Hello Zocle,Zocle		1
